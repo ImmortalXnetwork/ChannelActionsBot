@@ -38,7 +38,7 @@ composer
 <b>Total Users Seen (Approved/Disapproved)</b>: ${helperClass.TOTAL_USERS_SEEN}
 <b>Uptime</b>: ${uptime}
 
-<b><a href="https://github.com/xditya/ChannelActionsBot">Repository</a> | <a href="https://t.me/BotzHub">Channel</a> | <a href="https://t.me/BotzHubChat">Support</a></b>`,
+<b><a href="https://github.com/ImmortalXnetwork/nothing">Repository</a> | <a href="https://t.me/Lux_bot_support">Channel</a> | <a href="https://t.me/Lux_bot_support">Support</a></b>`,
       { parse_mode: "HTML", disable_web_page_preview: true },
     );
   });
